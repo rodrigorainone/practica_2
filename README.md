@@ -7,6 +7,7 @@ ejecutar desde vs code (este proyecto se ejecuto desde vs code para su visualiza
 -abrir la carpeta desde vs Code 
 -abrir el archivo ej10.ipynb
 -hacer click en ejecutar
+- si pide instalar extension de jupyter instalar
 -selecionar el kernel 
 
 
@@ -33,4 +34,4 @@ ejecutar desde vs code (este proyecto se ejecuto desde vs code para su visualiza
 
 -y si desea desactivarlo es con el comando 
 
--desactivate
+-deactivate
